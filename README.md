@@ -107,3 +107,5 @@ if __name__ == "__main__":
     except ValueError:
         print("El valor ingresado no se trata de un numero entero")
 ```
+
+## 4. Revisar que son los algoritmos de sorting, entender bubble-sort
